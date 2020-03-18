@@ -1,0 +1,67 @@
+@charset "UTF-8";
+body {
+    background-image: url(../images/grid.png);
+    background-repeat: repeat;
+}
+.Title.Banana.Land {
+    color: #FFFFFF;
+    background-color: #000000;
+    background-repeat: repeat;
+    -webkit-box-shadow: 0px 0px #FFFFFF;
+    box-shadow: 0px 0px #FFFFFF;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    margin-top: 50px;
+    margin-bottom: 25px;
+    font-size: xx-large;
+    text-align: center;
+    margin-left: 100px;
+    background-image: url(../images/original.jpg);
+    background-size: auto auto;
+    background-origin: content-box;
+    background-attachment: fixed;
+    padding-top: 14px;
+    margin-right: 100px;
+    padding-bottom: 14px;
+}
+.Banana.Land.Context.V1 {
+    color: #000000;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    background-color: #FDF381;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    font-size: medium;
+    text-align: left;
+    margin-bottom: 27px;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+.Banana.Land.Context.V2 {
+    color: #FFFFFF;
+    background-color: #000000;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    width: 174px;
+    font-size: large;
+    text-align: center;
+    margin-top: 27px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.center {
+    width: auto;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.Banana.Land.Context.V3 {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #000000;
+    color: #FFFFFF;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-align: center;
+    width: 262px;
+    height: 22px;
+}
